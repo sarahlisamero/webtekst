@@ -24,6 +24,10 @@ p, .contact a{
     letter-spacing: 1.5px;
     /*font size*/
 }
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
 main{
     width:80%;
     margin: 0 auto;
