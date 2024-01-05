@@ -2,24 +2,25 @@ body{
     background-color:#fcf7f2;
 }
 h1{
-    font-family: "futura-pt", sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-style: normal;
-    font-weight: 450;
+    font-weight: 700;
     line-height: normal;
     /*font size*/
 }
 h2{
-    font-family: "futura-pt", sans-serif;
-    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
     font-style: normal;
     font-weight: 350;
     line-height: normal;
     /*font size*/
 }
 p, .contact a{
-    font-family: sofia-pro, sans-serif;
+    /*font-family: sofia-pro, sans-serif;*/
+    font-family: 'Quicksand', sans-serif;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     line-height: normal;
     letter-spacing: 1.5px;
     /*font size*/
